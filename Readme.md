@@ -24,4 +24,6 @@ The deep learning model can be built using popular frameworks such as TensorFlow
 5. Evaluate the performance of the model on the testing set.
 
 ## Results
-The performance of the model can be visualized using various techniques such as confusion matrices, precision-recall curves, or ROC curves. Additionally, the model's accuracy, precision, recall, and F1-score can be reported to demonstrate its effectiveness in recognizing German traffic signs.
+Detailed results and explanation can be found in the paper"Traffic sign classification comparison between various convolution neural network models"
+if you found this helpful reference as 
+Traffic sign classification comparison between various convolution neural network models
