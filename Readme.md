@@ -22,8 +22,5 @@ The deep learning model can be built using popular frameworks such as TensorFlow
 3. Run the preprocessing script to preprocess the dataset.
 4. Train the model using the preprocessed dataset.
 5. Evaluate the performance of the model on the testing set.
-
 ## Results
-Detailed results and explanation can be found in the paper"Traffic sign classification comparison between various convolution neural network models"
-if you found this helpful reference as 
-Traffic sign classification comparison between various convolution neural network models
+For a comprehensive understanding of the results and explanations, refer to the paper "Traffic sign classification comparison between various convolution neural network models" available at [https://pureportal.coventry.ac.uk/en/publications/traffic-sign-classification-comparison-between-various-convolutio](https://pureportal.coventry.ac.uk/en/publications/traffic-sign-classification-comparison-between-various-convolutio). If you find this resource helpful, please cite it as "Traffic sign classification comparison between various convolution neural network models."
